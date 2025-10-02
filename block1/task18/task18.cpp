@@ -12,7 +12,7 @@ int main() {
     cout << "a) s = " << s << std::endl;
 
 
-    double s = 6;
+    s = 6;
     s = -5.2 * s;
     s = 0;
     std::cout << "б) s = " << s << std::endl;
