@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Cpp_tasks\bin\Debug\net9.0\Cpp_tasks.exe
+C:\Users\Admin\Desktop\Cpp_tasks\bin\Debug\net9.0\Cpp_tasks.deps.json
+C:\Users\Admin\Desktop\Cpp_tasks\bin\Debug\net9.0\Cpp_tasks.runtimeconfig.json
+C:\Users\Admin\Desktop\Cpp_tasks\bin\Debug\net9.0\Cpp_tasks.dll
+C:\Users\Admin\Desktop\Cpp_tasks\bin\Debug\net9.0\Cpp_tasks.pdb
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.sourcelink.json
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.dll
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\refint\Cpp_tasks.dll
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.pdb
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\Cpp_tasks.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Cpp_tasks\obj\Debug\net9.0\ref\Cpp_tasks.dll
